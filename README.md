@@ -1,2 +1,2 @@
-# Class21
-In this I learned how to make a function out of isTouching and bounceOff statements.
+# p5.play-boilerplate
+Boiler plate for p5.play
